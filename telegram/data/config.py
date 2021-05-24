@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = "token"
+BOT_TOKEN = "781196621:AAFh-rIyYuEXxUkweyQfwd2xJ-eoXGd1_pU"
 
 admins = [
     312038680
