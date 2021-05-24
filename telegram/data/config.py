@@ -3,7 +3,7 @@ import os
 BOT_TOKEN = "token"
 
 admins = [
-    #id admins
+    312038680
 ]
 
 ip = "localhost"
