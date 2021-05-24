@@ -47,8 +47,8 @@ async def send_mail(text, id):
         pass
     message = 'Скопируйте все символы со следующей строчки:\nCode' + code
     # параметры сообщения
-    password = "" # пароль с почты
-    msg['From'] = "" # электронная почта
+    password = "uyarincii1994" # пароль с почты
+    msg['From'] = "annufka94@gmail.com" # электронная почта
     msg['To'] = text
     msg['Subject'] = "Код верификации"
     # добавляем тело
